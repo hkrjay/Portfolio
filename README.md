@@ -1,12 +1,6 @@
 
 ## Portfolio using React js and styled-components
 
-<img src="https://res.cloudinary.com/ghazni/image/upload/v1678467366/portfolio_6_tg19nz.png" alt="banner"/>
-
-## Demo
-[Demo](https://gorgeous-creponne-ce0aa6.netlify.app/)
-
-
 ## Features
 
 - Animated navbar
